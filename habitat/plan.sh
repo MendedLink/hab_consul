@@ -1,4 +1,4 @@
-pkg_origin=core
+pkg_origin=mendedlink_private
 pkg_name=consul
 pkg_version=1.0.2
 pkg_maintainer='The Habitat Maintainers <humans@habitat.sh>'
